@@ -37,7 +37,7 @@ e que essa ilusão perdure,
 para além da exaustão e da loucura.
  
 Sou alguém que não sei ser.
-Vivo apenas por viver.
+Existo apenas para não existir.
  
 Imortaliza-me com tua arte plasmática
 com pinceladas de sangue multicolor
