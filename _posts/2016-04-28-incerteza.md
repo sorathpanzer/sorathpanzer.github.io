@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O Princípio da Incerteza
+title: O Princípio da Incerteza absoluta
 ---
 
 "Só, e na mais complexa solidão das palavras,
