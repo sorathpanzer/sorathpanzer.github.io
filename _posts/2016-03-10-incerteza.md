@@ -32,8 +32,8 @@ Para os mais jovens que brincavam na rua, ele não era mais que um velho e pobre
 Mas consideravam-no de certa forma uma figura paternal e por vezes protectora. 
 Que pensaria Ivan acerca da opinião dos outros? “- Merda p'ra vocês, fodam-se, engasguem-se no vosso vómito.. puta que vos pariu a todos, não nasci para vos servir, povo pérfido e sórdido, não pretendo a vossa indulgência, não quero a comiseração nem a clemência do vosso Deus, vós sois parte deste esterco divino e de toda esta fantochada a que baptizaram sob o nome de Criação.... nada mais é que um Circo de palhaços cinicamente representado pelo actor Homem. Limito-me apenas a reverenciar o vosso lento definhamento orientado no sentido da Morte, sentido único, sem inversões de marcha e sem filas de espera.” 
 
-  Abyssus Abyssum Invocat
-         (salmo 42, versículo 7) 
+  Abyssus Abyssum Invocat 
+          (salmo 42, versículo 7)
 
 Nietzsche, meu caro Amigo, da intuição à razão concebeste um trilho metafísico da realidade. Um abismo atrai o outro, e desse magnetismo gera a percepção do tempo e da realidade em que estamos continuamente a cair, uma queda no invisível, num suplício ou sentença sob os desígnios, signos e símbolos da Vida, e o único mistério que existe é fruto da enigmática criatividade do Ser Humano em criar mistérios.
 Havia um abismo à minha frente, avancei firme e decidido, deixando o meu corpo à mercê da gravidade, sentia a brisa a passar pela minha face e pelo meu cabelo como uma carícia à muito esquecida, mas desejada, inesperadamente formou-se uma embaraçosa lágrima no canto da minha visão que impedia de ver o firmamento com a sensatez de alguém que tem o mundo nas mãos... não era, nem nunca seria o meu caso!
