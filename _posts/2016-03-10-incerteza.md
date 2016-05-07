@@ -17,7 +17,7 @@ Sinceras, embora por vezes incompreensíveis… como eu!"
 Por detrás de tudo o que somos e desta nossa existência volátil, 
 de todo o conhecimento empírico e da sua interacção social, o que sentimos e entendemos, ou tentamos entender, há um horizonte impiedoso e uma flutuação dentro de pensamentos absortos, quase incoerentes, onde ecoa uma constante e perturbadora dissonância de raciocínios dissertativos, não são raras as vezes que tão sabiamente os escondemos sob um umbroso e assaz débil sorriso, sendo essa uma reacção involuntária de ludibriar a nossa própria natureza, através de uma geométrica matriz de desenganos e de a exaltar a um desígnio hermético, bem fechado na nossa compreensão individual e escondendo a realidade que nos assombra inconscientemente todos os dias: 
 
-                  "A VERDADE ELA MESMA!"
+"A VERDADE ELA MESMA!"
 
 Durante parte da nossa vivência direccionamos as nossas forças para um predeterminado intuito e propósito imposto por nós mesmos.
 E por vezes germina no nosso intimo uma persistente sensação de reprovação, não por falta de concretização pessoal, mas sim porque todos os dias somos levados a remodelar, repensar e reiterar esses objectivos de cada vez que os atingimos, ou até mesmo antes sequer de alguma vez os ter-mos alcançado, é parte natural da evolução dos organismos cognitivos, uma característica inerente ao Ser Humano, e sem duvida a origem de muitas incuráveis e permanentes angústias. Esse é na verdade, o Erro de Descartes, nem a inteligência, nem o amor, nem os séculos, fazem o Homem concentrar-se no que é mais importante, existe ainda uma real incapacidade Humana de confrontar os seus erros e de evoluir individualmente com cada um deles, é verdade que alguns de nós, com os anos nos vamos tornando mais cientes do mundo à nossa volta, mas essa gradação evolutiva é muito subjectiva e ela própria sujeita a inúmeras variabilidades, e é nesse exacto ponto que surgem seres instáveis, insensíveis, até muitas vezes cruéis e que rompem os limites da demência e entregam-se de forma gratuita a um caos psicanalítico e social. 
@@ -32,8 +32,8 @@ Para os mais jovens que brincavam na rua, ele não era mais que um velho e pobre
 Mas consideravam-no de certa forma uma figura paternal e por vezes protectora. 
 Que pensaria Ivan acerca da opinião dos outros? “- Merda p'ra vocês, fodam-se, engasguem-se no vosso vómito.. puta que vos pariu a todos, não nasci para vos servir, povo pérfido e sórdido, não pretendo a vossa indulgência, não quero a comiseração nem a clemência do vosso Deus, vós sois parte deste esterco divino e de toda esta fantochada a que baptizaram sob o nome de Criação.... nada mais é que um Circo de palhaços cinicamente representado pelo actor Homem. Limito-me apenas a reverenciar o vosso lento definhamento orientado no sentido da Morte, sentido único, sem inversões de marcha e sem filas de espera.” 
 
-                 Abyssus Abyssum Invocat
-                      (salmo 42, versículo 7) 
+  Abyssus Abyssum Invocat
+         (salmo 42, versículo 7) 
 
 Nietzsche, meu caro Amigo, da intuição à razão concebeste um trilho metafísico da realidade. Um abismo atrai o outro, e desse magnetismo gera a percepção do tempo e da realidade em que estamos continuamente a cair, uma queda no invisível, num suplício ou sentença sob os desígnios, signos e símbolos da Vida, e o único mistério que existe é fruto da enigmática criatividade do Ser Humano em criar mistérios.
 Havia um abismo à minha frente, avancei firme e decidido, deixando o meu corpo à mercê da gravidade, sentia a brisa a passar pela minha face e pelo meu cabelo como uma carícia à muito esquecida, mas desejada, inesperadamente formou-se uma embaraçosa lágrima no canto da minha visão que impedia de ver o firmamento com a sensatez de alguém que tem o mundo nas mãos... não era, nem nunca seria o meu caso!
