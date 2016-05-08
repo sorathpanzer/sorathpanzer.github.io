@@ -2,7 +2,7 @@
 layout: post
 title: Corpus Hermeticum (A união dos opostos)
 ---
-<center>
+
 A incoerência, a confusão,<br />
 o desvio da incerteza<br />
 de te desvendar e te sentir<br />
@@ -54,4 +54,3 @@ com esse gélido estranho abraço,<br />
 e nem uma única palavra de pesar<br />
 à minha vontade de não querer, nem pensar,<br /> 
 de existir ou sonhar.<br />
-</center>
