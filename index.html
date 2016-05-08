@@ -10,7 +10,7 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
-            <p>Chapter:</p> - <span class="date">{{ post.date | date: '%d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+            Chapter: <span class="date">{{ post.date | date: '%d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
     </ul>
