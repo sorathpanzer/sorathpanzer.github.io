@@ -3,9 +3,9 @@ layout: post
 title: Corpus Hermeticum (A união dos opostos)
 ---
 
-A incoerência, a confusão,
-o desvio da incerteza
-de te desvendar e te sentir
+A incoerência, a confusão,<p>
+o desvio da incerteza<p>
+de te desvendar e te sentir<p>
  
 A profundidade, a inexistência,
 a inequação dos seres vivos
