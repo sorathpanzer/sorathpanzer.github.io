@@ -2,55 +2,56 @@
 layout: post
 title: Corpus Hermeticum (A união dos opostos)
 ---
-
+<center>
 A incoerência, a confusão,<br />
 o desvio da incerteza<br />
 de te desvendar e te sentir<br />
  
-A profundidade, a inexistência,
-a inequação dos seres vivos
-multiplicada  pela rotação da Terra.
+A profundidade, a inexistência,<br />
+a inequação dos seres vivos<br />
+multiplicada  pela rotação da Terra.<br />
  
-O vazio,
-a irreversibilidade elevada á oposição dos infinitos.
-O minimalismo do silêncio,
-a fotossíntese dos Homens,
-e o metabolismo nefasto dos mortos
-em contraste com a anatomia imperfeita dos anjos.
+O vazio,<br />
+a irreversibilidade elevada á oposição dos infinitos.<br />
+O minimalismo do silêncio,<br />
+a fotossíntese dos Homens,<br />
+e o metabolismo nefasto dos mortos<br />
+em contraste com a anatomia imperfeita dos anjos.<br />
  
-Ah que simbiotica
-bioquimica de um anti-Deus que age
-por osmose dentro da nossa
-conflituosa consciência.
+Ah que simbiotica<br />
+bioquimica de um anti-Deus que age<br />
+por osmose dentro da nossa<br />
+conflituosa consciência.<br />
  
-Eu venero tamanha alienação.
+Eu venero tamanha alienação.<br />
  
-Eu sou a tua ausência,
-doce desprezável decadência.
-O teu antro pecado 
-com dissabores de confissão..
-Maltrata o meu desejo
-com a tua horrível forma de Ser
-Incendeia-me de beijos com a
-incandescência de teus lábios desfeitos,
-e que essa ilusão perdure,
-para além da exaustão e da loucura.
+Eu sou a tua ausência,<br />
+doce desprezável decadência.<br />
+O teu antro pecado <br />
+com dissabores de confissão..<br />
+Maltrata o meu desejo<br />
+com a tua horrível forma de Ser<br />
+Incendeia-me de beijos com a<br />
+incandescência de teus lábios desfeitos,<br />
+e que essa ilusão perdure,<br />
+para além da exaustão e da loucura.<br />
  
-Sou alguém que não sei ser.
-Existo apenas para não existir.
+Sou alguém que não sei ser.<br />
+Existo apenas para não existir.<br />
  
-Imortaliza-me com tua arte plasmática
-com pinceladas de sangue multicolor
-na tela caustica do meu corpo
-até ao Ex-Librís do meu pensamento.
+Imortaliza-me com tua arte plasmática<br />
+com pinceladas de sangue multicolor<br />
+na tela caustica do meu corpo<br />
+até ao Ex-Librís do meu pensamento.<br />
  
-Pinta-me de demónios com esse
-pincel afiado
-entre a veia do meu coração
-ao meu ventre esventrado.
+Pinta-me de demónios com esse<br />
+pincel afiado<br />
+entre a veia do meu coração<br />
+ao meu ventre esventrado.<br />
  
-Envolve-me de desgraça
-com esse gélido estranho abraço,
-e nem uma única palavra de pesar
-à minha vontade de não querer, nem pensar, 
-de existir ou sonhar.
+Envolve-me de desgraça<br />
+com esse gélido estranho abraço,<br />
+e nem uma única palavra de pesar<br />
+à minha vontade de não querer, nem pensar,<br /> 
+de existir ou sonhar.<br />
+</center>
