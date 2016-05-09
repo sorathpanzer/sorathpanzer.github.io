@@ -11,10 +11,11 @@ layout: default
         <li>
         chaptr
         </li>
-        
+        <ol type="1">
         <li>
              <span class="date">{{ post.date | date: '%d' }}</span>  - <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
+        </ol>
         {% endfor %}
     </ul>
 </div>
