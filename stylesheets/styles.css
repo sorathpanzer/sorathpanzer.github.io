@@ -200,6 +200,8 @@ header ul a {
   text-align:center;
   padding-top:6px;
   height:34px;
+    float: right;
+
 }
 
 header ul a:hover {
@@ -208,6 +210,8 @@ header ul a:hover {
 
 header ul a:active {
   background-color:#f0f0f0;
+    float: right;
+
 }
 
 strong {
@@ -218,12 +222,16 @@ strong {
 header ul li + li + li {
   border-right:none;
   width:89px;
+    float: right;
+
 }
 
 header ul a strong {
   font-size:14px;
   display:block;
   color:#222;
+    float: right;
+
 }
 
 section {
@@ -283,6 +291,8 @@ footer {
     position:absolute;
     right:50px;
     top:52px;
+      float: right;
+
   }
 }
 
@@ -315,6 +325,8 @@ footer {
 
   header li, header ul li + li + li {
     width:33%;
+      float: right;
+
   }
 }
 
