@@ -6,9 +6,9 @@ layout: default
 
 <div class="blog">
     <h1>Chapter Posts:</h1>
-    <ul>
+    <ul float:right>
         {% for post in site.posts %}
-        <li reversed>
+        <li>
             Chapter: <span class="date">{{ post.date | date: '%d' }}</span>  - <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
