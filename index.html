@@ -3,7 +3,51 @@ layout: default
 ---
 
 {% include header.html %}
+<!-- Start post reversal code -->
+<script type='text/javascript'>
+var Blog1 = document.getElementById('Blog1');
+var postContainer = Blog1.childNodes[1];
+var first = postContainer.firstChild;
+var child = first.nextSibling;
+var childNext = null;
+var classes = '';
 
+var dateHeaders = false;
+while (child != null) {
+if (child.className == 'date-header') {
+dateHeaders = true;
+break;
+}
+child = child.nextSibling;
+}
+
+child = first.nextSibling;
+
+while (child != null) {
+if (child.className != null) {
+if (child.className.match('date-header') != null) {
+childNext = child.nextSibling;
+postContainer.insertBefore(child, first);
+first = child;
+child = childNext;
+} else if (child.className.match('post hentry') != null) {
+childNext = child.nextSibling;
+if (!dateHeaders) {
+postContainer.insertBefore(child, first);
+first = child;
+} else {
+postContainer.insertBefore(child, first.nextSibling);
+}
+child = childNext;
+} else {
+child = child.nextSibling;
+}
+} else {
+child = child.nextSibling;
+}
+}
+</script>
+<!-- End post reversal code -->
 
 <div class="blog">
     <h1>Chapter Posts:</h1>
