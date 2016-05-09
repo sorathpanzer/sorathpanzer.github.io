@@ -10,7 +10,7 @@ layout: default
         {% for post in site.posts %}
        
         <li>
-             Chapr <span class="orbus">{{ post.date | '%d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+             Chapter <span type="number">{{ post.number | '%d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         
         {% endfor %}
