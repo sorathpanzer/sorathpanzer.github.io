@@ -6,16 +6,16 @@ layout: default
 
 <div class="blog">
     <h1>Chapter Posts:</h1>
-    <ul>
+    <ol start="1">
         {% for post in site.posts %}
-       <ol start="1">
+       
         <li>
             
-             Chater <span class="date">{{ date: '%d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+             Chapter <span class="date">{{ date: '%d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
              
         </li>
-        </ol>
+        
         
         {% endfor %}
-    </ul>
+    </ol>
 </div>
