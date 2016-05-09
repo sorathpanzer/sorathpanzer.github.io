@@ -9,7 +9,7 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
-            Chapter: </ol><span class="date">{{ post.date | date: '%d' }}</span>  - <a href="{{ post.url }}">{{ post.title }}</a></ol>
+            Chapter: <ol type="1"><span class="date">{{ post.date | date: '%d' }}</span>  - <a href="{{ post.url }}">{{ post.title }}</a></ol>
         </li>
         {% endfor %}
     </ul>
