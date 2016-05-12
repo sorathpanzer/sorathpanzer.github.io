@@ -11,7 +11,7 @@ Mas eu pronuncio-as, leio-as vigorosamente <br />
 a este pouco de nada que me envolve, não por as compreender, <br />
 ou saber o que estou a dizer, mas porque sinto, <br />
 que estas mesmas palavras são parte de mim: <br />
-Sinceras, embora tão vezes indecifraveis… como eu!" <br /> 
+Sinceras, embora muitas vezes indecifraveis… como eu!" <br /> 
 <p>                                                  </p>
 <p>                                                  </p>
 Por detrás de tudo o que somos e desta nossa volátil existência, 
