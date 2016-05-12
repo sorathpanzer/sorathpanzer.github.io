@@ -4,18 +4,18 @@ title: O Princípio da Incerteza absoluta
 ---
 
 "Só, e na mais complexa solidão das palavras, <br />
-onde não há qualquer significado tangente à realidade. <br /> 
-Um inventar de frases em que o próprio conteúdo é tão vazio <br />
+onde não existe qualquer significado tangente à realidade. <br /> 
+Um reinventar de frases em que o próprio conteúdo é tão vazio <br />
 e irrelevante como o Universo que as contém. <br />
 Mas eu pronuncio-as, leio-as vigorosamente <br />
 a este pouco de nada que me envolve, não por as compreender, <br />
 ou saber o que estou a dizer, mas porque sinto, <br />
 que estas mesmas palavras são parte de mim: <br />
-Sinceras, embora por vezes incompreensíveis… como eu!" <br /> 
+Sinceras, embora tão vezes indecifraveis… como eu!" <br /> 
 <p>                                                  </p>
 <p>                                                  </p>
-Por detrás de tudo o que somos e desta nossa existência volátil, 
-de todo o conhecimento empírico e da sua interacção social, o que sentimos e entendemos, ou tentamos entender, há um horizonte impiedoso e uma flutuação dentro de pensamentos absortos, quase incoerentes, onde ecoa uma constante e perturbadora dissonância de raciocínios dissertativos, não são raras as vezes que tão sabiamente os escondemos sob um umbroso e assaz débil sorriso, sendo essa uma reacção involuntária de ludibriar a nossa própria natureza, através de uma geométrica matriz de desenganos e de a exaltar a um desígnio hermético, bem fechado na nossa compreensão individual e escondendo a realidade que nos assombra inconscientemente todos os dias: 
+Por detrás de tudo o que somos e desta nossa volátil existência, 
+de todo o nosso conhecimento empírico e da sua interacção social, o que sentimos e entendemos, ou tentamos penosamente entender, surge, diante de nós, um horizonte impiedoso e uma flutuação dentro de pensamentos absortos, quase incoerentes, onde ecoa uma constante e perturbadora dissonância de raciocínios dissertativos, não são raras as vezes que tão sabiamente os escondemos sob um umbroso e assaz débil sorriso, sendo essa uma reacção involuntária e até primitiva de ludibriar a nossa própria natureza, através de uma geométrica matriz de desenganos, exaltando-a num desígnio hermético, bem fechado na nossa compreensão individual e escondendo a realidade que nos assombra inconscientemente todos os dias: 
 <p>                                                  </p>
 "A VERDADE ELA MESMA!"
 <p>                                                  </p>
