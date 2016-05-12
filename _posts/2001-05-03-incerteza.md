@@ -54,4 +54,4 @@ e doentios.
 Acendi um cigarro e com aparente desprezo abandonei aquele mesmo jornal.
 <p>                                                  </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1FKXBNy38FE" frameborder="0" allowfullscreen></iframe>
+<iframe width="0" height="0" src="https://www.youtube.com/embed/1FKXBNy38FE?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
