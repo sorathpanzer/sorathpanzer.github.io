@@ -23,7 +23,7 @@ bioquimica de um anti-Deus que age<br />
 por osmose dentro da nossa<br />
 conflituosa consciência.<br />
 <p>                          </p> 
-Eu venero tamanha alienação.<br />
+Eu amo-te oh tamanha alienação.<br />
 <p>                          </p> 
 Eu sou a tua ausência,<br />
 doce desprezável decadência.<br />
