@@ -37,7 +37,7 @@ e que essa ilusão perdure,<br />
 para além da exaustão e da loucura.<br />
 <p>                          </p> 
 Sou alguém que não sei ser.<br />
-Vivo apenas por viver.<br />
+Vivo apenas por não querer.<br />
 <p>                          </p> 
 Imortaliza-me com tua arte plasmática<br />
 com pinceladas de sangue multicolor<br />
