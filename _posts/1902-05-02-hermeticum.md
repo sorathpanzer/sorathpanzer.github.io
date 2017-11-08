@@ -36,9 +36,6 @@ incandescência de teus lábios desfeitos,<br />
 e que essa ilusão perdure,<br />
 para além da exaustão e da loucura.<br />
 <p>                          </p> 
-Sou alguém que não sei ser.<br />
-Vivo apenas por não querer.<br />
-<p>                          </p> 
 Imortaliza-me com tua arte plasmática<br />
 com pinceladas de sangue multicolor<br />
 na tela caustica do meu corpo<br />
@@ -52,7 +49,9 @@ ao meu ventre esventrado.<br />
 Envolve-me de desgraça<br />
 com esse gélido estranho abraço,<br />
 e nem uma única palavra de pesar<br />
-à minha vontade de não querer, nem pensar,<br /> 
-de amar, nem sonhar.<br />
+à minha vontade de não querer, nem pensar;<br /> 
+nem amar, ou sonhar.<br />
+<p>                 </p>
+O amor é um veneno, mas pela sua doçura todos o vão beber... e todos acabam por morrer!" <br />
 
 <iframe width="0" height="0" src="https://www.youtube.com/embed/1xpkRj99FH0?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
