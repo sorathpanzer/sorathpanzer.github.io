@@ -49,8 +49,8 @@ ao meu ventre esventrado.<br />
 Envolve-me de desgraça<br />
 com esse gélido estranho abraço,<br />
 e nem uma única palavra de pesar<br />
-à minha vontade de não querer, nem pensar;<br /> 
-nem amar, ou sonhar.<br />
+à minha vontade de não querer, nem pensar.<br /> 
+Nem amar, ou sonhar.<br />
 <p>                 </p>
 O amor é um veneno, mas pela sua doçura todos o vão beber... e todos acabam por morrer!" <br />
 
