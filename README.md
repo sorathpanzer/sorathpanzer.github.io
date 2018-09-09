@@ -1,2 +1,2 @@
-# Solipsism book by Sorath Panzer
+# Solipsism by Sorath Panzer
 
