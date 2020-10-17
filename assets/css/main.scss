@@ -63,6 +63,7 @@ ul {
 
 
 .header {
+    foreground-color: #585858;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -73,7 +74,6 @@ ul {
     h1 {
         font-size: 2em;
         margin-bottom: 0;
-        foreground-color: #585858;
     }
     ul {
         margin-top: 10px;
