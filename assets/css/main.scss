@@ -12,6 +12,17 @@ body {
     font-size: 100%;
     font-weight: 400;
 }
+
+::-moz-selection { /* Code for Firefox */
+  color: red;
+  background: yellow;
+}
+
+::selection {
+  color: red;
+  background: yellow;
+}
+
 h1 {
     margin-bottom: 5px;
 }
