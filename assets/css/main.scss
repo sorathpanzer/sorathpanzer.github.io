@@ -23,9 +23,11 @@ p {
 
 p::-moz-selection{
     color: #585858;
+    background: #000000;
 }
 p::selection{
-    color: 585858;
+    color: #585858;
+    background: #000000;
 }
 
 a {
