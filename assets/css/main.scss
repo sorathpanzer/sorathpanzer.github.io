@@ -187,7 +187,6 @@ a::selection{
             margin-bottom: 15px;
         }
         a {
-            text-align: center;
             text-decoration: underline;
             &:hover {
                 font-weight: bold;
@@ -200,7 +199,6 @@ a::selection{
             font-style: italic;
         }
         ul {
-            text-align: center;
             font-size: 1em;
             list-style: circle;
             margin-left: 30px;
