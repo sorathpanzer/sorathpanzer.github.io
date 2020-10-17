@@ -13,16 +13,6 @@ body {
     font-weight: 400;
 }
 
-::-moz-selection { /* Code for Firefox */
-  color: red;
-  background: yellow;
-}
-
-::selection {
-  color: red;
-  background: yellow;
-}
-
 h1 {
     margin-bottom: 5px;
 }
@@ -30,6 +20,16 @@ p {
     font-size: 1em;
     line-height: 150%;
 }
+
+p::-moz-selection{
+    color: red;
+    background: yellow;
+}
+p::selection{
+    color: red;
+  background: yellow;
+}
+
 a {
   foreground-color: #BDBDBD;
   color: #B40404;
