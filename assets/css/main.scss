@@ -11,10 +11,6 @@ body {
     font-family: 'Inconsolata', ;
     font-size: 100%;
     font-weight: 400;
-    margin: auto;
-    width: 60%;
-    border: 3px solid #73AD21;
-    padding: 10px;
 }
 
 body::-moz-selection{
@@ -177,6 +173,7 @@ a::selection{
             margin-bottom: 15px;
         }
         a {
+            text-align: center;
             text-decoration: underline;
             &:hover {
                 font-weight: bold;
