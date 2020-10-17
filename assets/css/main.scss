@@ -57,7 +57,6 @@ a {
   text-align: center;
   foreground-color: #BDBDBD;
   color: #B40404;
-  text-align: center;
   text-decoration: none;
   &:visited {
     color: #B40404;
@@ -76,6 +75,7 @@ a {
 }
 ul {
     list-style: none;
+    text-align: center;
     li {
         padding: 5px;
         padding-left: 10px;
