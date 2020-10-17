@@ -22,21 +22,21 @@ p {
     foreground-color: #BDBDBD;
 }
 a {
-  foreground-color: #FFFFFF;
-  color: #8A0808;
+  foreground-color: #BDBDBD;
+  color: #B40404;
   text-decoration: none;
   &:visited {
-    color: #8A0808;
+    color: #B40404;
     text-decoration: none;
   }
   &:hover {
-    foreground-color: #FFFFFF;
+    foreground-color: #BDBDBD;
     color: #B40404;
     text-decoration: underline;
   }
   &:active {
-    foreground-color: #FFFFFF;
-    color: #8A0808;
+    foreground-color: #BDBDBD;
+    color: #B40404;
     text-decoration: none;
   }
 }
