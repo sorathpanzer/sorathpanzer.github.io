@@ -22,12 +22,10 @@ p {
 }
 
 p::-moz-selection{
-    color: red;
-    background: yellow;
+    color: #585858;
 }
 p::selection{
-    color: red;
-  background: yellow;
+    color: 585858;
 }
 
 a {
