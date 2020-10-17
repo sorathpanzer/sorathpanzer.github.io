@@ -53,6 +53,21 @@ p::selection{
     background: #000000;
 }
 
+br {
+    font-size: 1em;
+    line-height: 150%;
+}
+
+br::-moz-selection{
+    color: #585858;
+    background: #000000;
+}
+
+br::selection{
+    color: #585858;
+    background: #000000;
+}
+
 a {
   foreground-color: #BDBDBD;
   color: #B40404;
@@ -233,16 +248,6 @@ a::selection{
             border: 0;
             border-bottom: 1px dashed $color-fg;
         }
-        
-        .codebreak::-moz-selection{
-    color: #585858;
-    background: #000000;
-}
-
-.codebreak::selection{
-    color: #585858;
-    background: #000000;
-}
     }
 }
 
