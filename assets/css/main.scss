@@ -76,6 +76,7 @@ a {
 ul {
     list-style: none;
     li {
+        text-align: center;
         padding: 5px;
         padding-left: 10px;
         @media screen and (max-width: $br) {
@@ -95,6 +96,7 @@ a::selection{
 }
 
 .wrapper {
+    background: #000000;
     max-width: 600px;
     margin: auto;
     padding: 60px 30px 60px 30px;
