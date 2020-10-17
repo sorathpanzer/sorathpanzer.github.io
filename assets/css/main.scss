@@ -38,7 +38,6 @@ h1::selection{
     background: #000000;
 }
 
-
 p {
     font-size: 1em;
     line-height: 150%;
@@ -84,6 +83,15 @@ ul {
     }
 }
 
+a::-moz-selection{
+    color: #585858;
+    background: #000000;
+}
+
+a::selection{
+    color: #585858;
+    background: #000000;
+}
 
 .wrapper {
     max-width: 600px;
@@ -93,7 +101,6 @@ ul {
         padding: 20px;
     }
 }
-
 
 .header {
     display: flex;
