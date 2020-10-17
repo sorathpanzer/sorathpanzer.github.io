@@ -56,6 +56,7 @@ p::selection{
 a {
   foreground-color: #BDBDBD;
   color: #B40404;
+  text-align: center;
   text-decoration: none;
   &:visited {
     color: #B40404;
@@ -152,6 +153,7 @@ a::selection{
         text-decoration: underline;
         margin-top: 20px;
         margin-bottom: 5px;
+        background: #000000;
     }
     &__date {
         font-size: 1em;
