@@ -233,6 +233,16 @@ a::selection{
             border: 0;
             border-bottom: 1px dashed $color-fg;
         }
+        
+        .codebreak::-moz-selection{
+    color: #585858;
+    background: #000000;
+}
+
+.codebreak::selection{
+    color: #585858;
+    background: #000000;
+}
     }
 }
 
