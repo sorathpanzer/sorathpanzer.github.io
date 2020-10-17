@@ -26,6 +26,7 @@ body::selection{
 
 h1 {
     margin-bottom: 5px;
+    background: #000000;
 }
 
 h1::-moz-selection{
@@ -41,6 +42,7 @@ h1::selection{
 p {
     font-size: 1em;
     line-height: 150%;
+    background: #000000;
 }
 
 p::-moz-selection{
